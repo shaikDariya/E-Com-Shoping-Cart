@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+}
+
+.categorieItem{
+    flex: 1;
+}
+
+.centerAlign{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 32px;
+    cursor: pointer;
+}
+
+.centerAlign:hover{
+    color: red;
+    font-weight: 500;
+}
+
+.activeItem {
+    color: red;
+    font-weight: 500;
+}

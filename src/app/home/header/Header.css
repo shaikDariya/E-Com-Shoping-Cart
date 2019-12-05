@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 32px;
+    padding: 10px 0;
+    border-bottom: 1px solid #ced4da;
+    background-color: #ffffff;
+}
+
+.hamburgerMenu{
+}
+
+.searchMenu{
+    flex:auto;
+}
+.headerLeft{
+
+}
+.headerRight{
+    min-width: 90px;   
+}
+
+.fontIcon{
+    font-size: 24px;
+    color: #939393; 
+    margin: 0 10px;
+}
+

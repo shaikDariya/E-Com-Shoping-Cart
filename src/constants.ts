@@ -1,0 +1,1 @@
+export const noRootMsg: string = "No root element";
